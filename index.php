@@ -2,8 +2,8 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title> BruActiv </title>
-	<link rel="bruactivIcon" href="images/bruactivTabLogo.png">
+	<title>BruActiv</title>
+	<link rel="icon" href="images/bruactivTabLogo.png">
 	<style>
 	html { 
 		background: url(images/backgroundImage.jpg) no-repeat center center fixed; 
@@ -11,6 +11,7 @@
 		-moz-background-size: cover;
 		-o-background-size: cover;
 		background-size: cover;
+		height: 100%;
 	}
 	body{
 		position: absolute;
